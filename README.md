@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Mobile and Aerial Robotics**
 
-- 👨‍💻 All of my projects are available at [manoharbhat.github.io](manoharbhat.github.io)
+- 👨‍💻 All of my projects are available at [manoharbhat.github.io](https://manoharbhat.github.io/)
 
 - 📫 How to reach me **manohar.bhat99@gmail.com**
 
