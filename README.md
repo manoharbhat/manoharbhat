@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [manoharbhat.github.io](https://manoharbhat.github.io/)
 
-- 📫 How to reach me **manohar.bhat99@gmail.com**
+- 📫 How to reach me
+  **manubhat@umich.edu**
+  **manohar.bhat99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
