@@ -1,17 +1,16 @@
 <h1 align="center">Hello 👋, I'm Manohar Bhat</h1>
 <h3 align="center">A Technophilic Roboticist with an impetus to make a significant contribution</h3>
 
-- 🔭 I’m currently working on **Autonomous UAV localization, planning and navigation**
+- 🔭 I’m currently working on **Novel Perception systems and Robot Perception**
 
-- 🌱 I’m currently learning **SLAM, path planning, perception algorithms**
+- 🌱 I’m currently interested in **Perception, Sensor Fusion and SLAM**
 
-- 👯 I’m looking to collaborate on **Mobile and Aerial Robotics**
+- 👯 I’m looking for opportunities in advancing autonomy for **Mobile and Aerial Robotics**
 
 - 👨‍💻 All of my projects are available at [manoharbhat.github.io](https://manoharbhat.github.io/)
 
 - 📫 How to reach me
   **manubhat@umich.edu**
-  **manohar.bhat99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
